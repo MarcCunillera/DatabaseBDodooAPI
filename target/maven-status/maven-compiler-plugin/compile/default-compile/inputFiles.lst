@@ -1,0 +1,11 @@
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/api/MetabaseDashboard.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/model/Card.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/api/MetabaseCollection.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/api/MetabaseSecurity.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/model/MetabaseUser.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/Auth/MetabaseAuth.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/Database/MetabaseClient.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/model/Dashboard.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/config/MetabaseConfig.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/Main.java
+/home/marccunillera/Documentos/DatabaseOdoo/src/main/java/com/mycompany/databaseodoo/api/MetabaseCardCreator.java

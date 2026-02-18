@@ -1,0 +1,11 @@
+com/mycompany/databaseodoo/api/MetabaseCollection.class
+com/mycompany/databaseodoo/config/MetabaseConfig.class
+com/mycompany/databaseodoo/api/MetabaseSecurity.class
+com/mycompany/databaseodoo/Main.class
+com/mycompany/databaseodoo/model/MetabaseUser.class
+com/mycompany/databaseodoo/api/MetabaseCardCreator.class
+com/mycompany/databaseodoo/model/Card.class
+com/mycompany/databaseodoo/Auth/MetabaseAuth.class
+com/mycompany/databaseodoo/Database/MetabaseClient.class
+com/mycompany/databaseodoo/api/MetabaseDashboard.class
+com/mycompany/databaseodoo/model/Dashboard.class
